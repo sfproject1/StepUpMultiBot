@@ -10,3 +10,6 @@
 Для работы требуется Telegram. Необходимо:
 1. Создать бота через https://t.me/BotFather . Записать Api ключ.
 2. Создать канал, добавить туда бота, в качестве администратора. Написать в канале любое сообщение и переслать его в https://t.me/userinfobot . Вы получите ID канала (начинается с минуса).
+![1](https://github.com/sfproject1/StepUpMultiBot/blob/main/1.png)
+![2](https://github.com/sfproject1/StepUpMultiBot/blob/main/2.png)
+![3](https://github.com/sfproject1/StepUpMultiBot/blob/main/3.png)
